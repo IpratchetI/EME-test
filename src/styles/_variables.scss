@@ -1,0 +1,26 @@
+$color-ink: #0b1f2a;
+$color-ink-soft: #1a3344;
+$color-muted: #5b7383;
+$color-surface: #f3f7f9;
+$color-surface-elevated: #ffffff;
+$color-border: #d5e0e7;
+$color-accent: #0f7a6c;
+$color-accent-hover: #0c6559;
+$color-accent-soft: #d8f3ee;
+$color-warn: #c27a1e;
+$color-danger: #c23b3b;
+$color-success: #1f8a5b;
+
+$font-display: 'Sora', system-ui, sans-serif;
+$font-body: 'Manrope', system-ui, sans-serif;
+
+$radius-sm: 8px;
+$radius-md: 14px;
+$radius-lg: 22px;
+$shadow-soft: 0 10px 30px rgba(11, 31, 42, 0.08);
+$nav-width: 280px;
+$content-max: 1100px;
+
+$ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+$duration-fast: 160ms;
+$duration-base: 280ms;
