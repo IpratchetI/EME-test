@@ -142,7 +142,8 @@ const currentTitle = computed(() => {
 .sidebar__nav {
   display: grid;
   gap: 0.35rem;
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .nav-item {
@@ -150,14 +151,11 @@ const currentTitle = computed(() => {
   gap: 0.15rem;
   padding: 0.75rem 0.85rem;
   border-radius: $radius-md;
-  transition:
-    background $duration-fast $ease-out,
-    transform $duration-fast $ease-out;
+  transition: background $duration-fast $ease-out;
 }
 
 .nav-item:hover {
   background: rgba(15, 122, 108, 0.08);
-  transform: translateX(2px);
 }
 
 .nav-item--active {
