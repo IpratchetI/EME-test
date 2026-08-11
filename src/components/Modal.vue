@@ -134,7 +134,7 @@ onUnmounted(() => {
 
 .modal__title {
   font-size: 1.15rem;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 .modal__close {

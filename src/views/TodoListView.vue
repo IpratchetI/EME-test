@@ -209,7 +209,7 @@ function confirmDelete() {
   color: $color-muted;
   border-radius: 999px;
   padding: 0.45rem 0.85rem;
-  font-weight: 650;
+  font-weight: 600;
   cursor: pointer;
   transition:
     background $duration-fast $ease-out,

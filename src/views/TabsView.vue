@@ -117,7 +117,7 @@ onMounted(() => {
   border: none;
   background: transparent;
   color: $color-muted;
-  font-weight: 650;
+  font-weight: 600;
   padding: 0.7rem 1rem;
   border-radius: $radius-sm;
   cursor: pointer;

@@ -123,7 +123,7 @@ const tasks = [
 .task-card__title {
   margin-top: 0.55rem;
   font-size: 1.1rem;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 .task-card__stack {

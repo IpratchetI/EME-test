@@ -165,7 +165,7 @@ const currentTitle = computed(() => {
 }
 
 .nav-item__label {
-  font-weight: 650;
+  font-weight: 600;
   font-size: 0.95rem;
 }
 

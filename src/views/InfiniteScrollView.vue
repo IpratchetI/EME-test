@@ -204,7 +204,7 @@ onMounted(() => {
   text-align: center;
   color: $color-muted;
   padding: 0.75rem 0 0.25rem;
-  font-weight: 650;
+  font-weight: 600;
 }
 
 .feed__sentinel {
